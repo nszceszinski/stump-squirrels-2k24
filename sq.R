@@ -1,2 +1,3 @@
-#Squirrels!
-#code new 2
+#Squirr
+#code new 4
+head(mtcars)
